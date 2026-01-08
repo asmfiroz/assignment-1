@@ -71,3 +71,41 @@ h1{
     background:transparent;
     color: white;
 }
+
+.notes{
+    background-color: #fbfcfc;
+}
+.notes .notes-title{
+    text-align:center ;
+    
+}
+
+.cards{
+    display: flex;
+    justify-content: flex-start;
+    
+    padding: 44px 120px;
+}
+.box{
+    background-color: white;
+    border-radius: 12px;
+    width: 322px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 0px solid;
+    margin: 20px;
+}
+.box .red{
+    width: 32px;
+    height: 32px;
+    padding: 14.38px;
+    border-radius: 100%;
+    background-color:#F95555;
+}
+text-color,.card-content p, .notes-title p {
+    color: #627382;
+}
