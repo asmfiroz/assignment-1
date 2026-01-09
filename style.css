@@ -106,7 +106,7 @@ h1{
     border-radius: 100%;
     background-color:#F95555;
 }
-text-color,.card-content p, .notes-title p, .second-brain .explain .p {
+text-color,.card-content p, .notes-title p, .second-brain .explain .p,#ready .section-heading p {
     color: #627382;
 }
 
@@ -124,4 +124,17 @@ text-color,.card-content p, .notes-title p, .second-brain .explain .p {
 
 .second-brain .explain .p{
     padding: 16px 0px 40px 0px;
+}
+
+#ready .ready-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #fbfcfc;
+    padding: 0px 120px 0px 120px;
+}
+
+#ready .ready-container .section-heading{
+    padding: 80px 40px
 }
