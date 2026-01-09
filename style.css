@@ -43,6 +43,7 @@ nav .img{
     color: #469165;
     border-radius:1000px ;
     margin-bottom:16px ;
+    padding: 8px 12px;
 }
 
 .image-container .title .txt{
@@ -97,7 +98,8 @@ h1{
     align-items: center;
     text-align: center;
     border: 0px solid;
-    margin: 20px;
+    margin-right: 20px;
+    padding-bottom: 24px;
 }
 .box .red{
     width: 32px;
