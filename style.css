@@ -138,3 +138,30 @@ text-color,.card-content p, .notes-title p, .second-brain .explain .p,#ready .se
 #ready .ready-container .section-heading{
     padding: 80px 40px
 }
+
+.footer{
+    background-color: #001931;
+}
+.footer .footer-section{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 120px 40px 120px;
+}
+
+.footer .footer-section{
+    color: white;
+}
+
+hr{
+    border: none;
+    height: 0.5px;
+    background-color: #2e436b;
+    width: 1300px;
+}
+
+.ftr{
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
